@@ -6,5 +6,5 @@ public class Main {
 //    fafafa
 //    cococo
 //    bama2
-
+//    meomeomeo
 }
